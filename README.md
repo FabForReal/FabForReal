@@ -1,7 +1,7 @@
 ### Languages:
 - C#
 
-Additionally: Some experience in HTML and CSS.
+Additionally: Some experience in HTML/CSS and Python.
 
 ### Game Engines:
 - Unity
