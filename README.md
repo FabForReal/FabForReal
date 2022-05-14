@@ -1,21 +1,23 @@
-### Languages:
-- C#
+I work on Gamedev related stuff and I'm part of the [Annoying Studio] Team
 
-Additionally: Some experience in HTML/CSS and Python.
+### Programming Languages:
+- C#
 
 ### Game Engines:
 - Unity
 
-### Contact:
+### Socials:
 - [Twitter]
-- [Itch]
+- [Itch.io]
 
-### Annoying-Studio
-- [AnnoyingStudio-Twitter]
-- [AnnoyingStudio-Itch]
+### Annoying Studio
+- [Annoying Studio Twitter]
+- [Annoying Studio Itch]
 
 
-[AnnoyingStudio-Twitter]: https://twitter.com/AnnoyingStudio
-[AnnoyingStudio-Itch]: https://annoying-studio.itch.io/
+
+[Annoying Studio Twitter]: https://twitter.com/AnnoyingStudio
+[Annoying Studio Itch]: https://annoying-studio.itch.io/
 [Twitter]: https://twitter.com/Brzzzn
-[Itch]: https://brzzzn.itch.io/
+[Itch.io]: https://brzzzn.itch.io/
+[Annoying Studio]: https://twitter.com/AnnoyingStudio
