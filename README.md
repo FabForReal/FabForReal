@@ -9,7 +9,9 @@ I work mostly on Gamedev related stuff and I'm part of the [Annoying Studio] Tea
 ## Socials 🌴
 - [Twitter Profile]
 - [Itch.io Page]
+- [Mastodon Profile]
 
 [Annoying Studio]: https://twitter.com/AnnoyingStudio
 [Twitter Profile]: https://twitter.com/Brzzzn
 [Itch.io Page]: https://brzzzn.itch.io/
+[Mastodon Profile]: https://mastodon.gamedev.place/@brzn
