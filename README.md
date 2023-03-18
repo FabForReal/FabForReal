@@ -1,10 +1,17 @@
 # Hello ! 👋
 
-I work mostly on Gamedev related stuff and I'm part of the [Annoying Studio] Team.
-## Technologies and tools 🛠️
-- C#
-- Unity Engine
+Hobby Programmer working mostly on Gamedev related stuff.  
+I'm part of the [Annoying Studio] Team.
+
+## Technologies And Tools 🛠️
+- Unity Game Engine
 - Visual Studio & Visual Studio Code
+- JetBrains IntelliJ
+
+## Languages
+- C#
+- Java
+- Python
 
 ## Socials 🌴
 - [Twitter Profile]
